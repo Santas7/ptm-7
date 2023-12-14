@@ -1,5 +1,6 @@
 import logging
 import csv
+import asyncio
 
 
 class ShopInventory:
